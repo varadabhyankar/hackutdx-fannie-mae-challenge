@@ -1,7 +1,8 @@
 # hackutdx-fannie-mae-challenge
 HACKUTDX
 
-This is our attempt at solving the problem statement given by Fannie Mae at HackUTDX 2023.
+This is our attempt at solving the problem statement given by Fannie Mae at HackUTDX 2023. 
+(Please note that this is an incomplete project and will be soon completed)
 
 We have used the following steps in our solution:
 1) Imported the dataset and created columns for attributes like LTV, DTI and FEDTI. Created a column for Approval status.
