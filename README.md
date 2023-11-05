@@ -12,3 +12,7 @@ We have used the following steps in our solution:
 5) After the data is thus labeled we determined the % of approved and not approved rows in the dataset and created the graphs.
 6) Used a classification algorithm on the now labeled dataset. Accuracy (94%)
 7) Developed a simple web application to predict whether a user's home loan request will be approved or not; and if not what are the major obstacles.
+
+To run the react app:
+Run `npm start` from the SalesApplication folder
+\ Open [http://localhost:3000](http://localhost:3000) to view it in your browser
